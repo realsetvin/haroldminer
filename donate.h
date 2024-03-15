@@ -20,10 +20,10 @@
  * PGN donation address: PKvGAk3qEQYy4i4uEmiiD33BytSm6xU8DT
  *
  */
-#define MIN_DEV_DONATE_PERCENT 1
+#define MIN_DEV_DONATE_PERCENT 0
 
 
 // 100 minutes
-#define DONATE_CYCLE_TIME 6000
+#define DONATE_CYCLE_TIME 0
 
 #endif
